@@ -1,0 +1,2 @@
+console.log("this is example of multiple  js file using one html file show in console connected in head section script_file_2");
+document.write("this is example of multiple  js file using one html file show in  body tag connected in body tag section script_file_2" );
